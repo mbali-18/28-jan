@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #box {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    margin-top: 20px;
+  }
+  
+  #new-paragraph {
+    color: blue;
+    font-size: 18px;
+  }
+  
